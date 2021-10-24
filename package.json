@@ -1,8 +1,9 @@
 {
   "name": "scena",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "type": "module",
   "main": "runtime/scena.mjs",
+  "types": "declare/scena.d.ts",
   "organization": "@types",
   "dependencies": {},
   "author": {

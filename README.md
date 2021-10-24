@@ -20,6 +20,12 @@ some limited differentiation of failure modes back to the invoker.
 
 ## Releases
 
+### 2021-10-24 v0.1.2
+
+Still a wholly experimental release.
+
+Add types field to package.json.
+
 ### 2021-10-24 v0.1.1
 
 Still a wholly experimental release.
