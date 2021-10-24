@@ -1,0 +1,14 @@
+{
+  "name": "scena",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "runtime/scene.mjs",
+  "organization": "@types",
+  "dependencies": {},
+  "author": {
+    "name": "Julian M.N. Bourne",
+    "email": "julian.m.n.bourne@planloft.com",
+    "url": "https://www.linkedin.com/in/julianmnbourne/"
+  },
+  "license": "BSD-2-Clause"
+}
