@@ -1,8 +1,8 @@
 {
   "name": "scena",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "type": "module",
-  "main": "runtime/scene.mjs",
+  "main": "runtime/scena.mjs",
   "organization": "@types",
   "dependencies": {},
   "author": {
