@@ -20,6 +20,12 @@ some limited differentiation of failure modes back to the invoker.
 
 ## Releases
 
+### 2021-10-24 v0.1.1
+
+Still a wholly experimental release.
+
+Used wats to fill out the runtime and declare directories. 
+
 ### 2021-10-24 v0.1.0
 
 This is really rough - it has a couple of fields defined, but these
