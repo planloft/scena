@@ -1,0 +1,46 @@
+{
+  "compilerOptions": {
+    "target": "es2020",
+    "module": "es2020",
+    "useDefineForClassFields": true,
+    "newLine": "lf",
+    "preserveConstEnums": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "strictFunctionTypes": true,
+    "strictBindCallApply": true,
+    "strictPropertyInitialization": true,
+    "noImplicitThis": true,
+    "useUnknownInCatchVariables": true,
+    "alwaysStrict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitOverride": true,
+    "noPropertyAccessFromIndexSignature": true,
+    "incremental": false,
+    "composite": false,
+    "outDir": "./runtime",
+    "rootDir": "./",
+    "rootDirs": [
+      "./"
+    ],
+    "baseUrl": "./",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "sourceMap": true,
+    "declaration": true,
+    "declarationDir": "./declare",
+    "declarationMap": true,
+    "paths": {}
+  },
+  "include": [
+    "./**/*.ts"
+  ],
+  "exclude": [
+    "./runtime",
+    "./declare",
+    "./testing"
+  ]
+}
